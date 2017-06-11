@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2017\Projects\CardGames2\cardgames\bin\Debug\cardgames.exe.config
+c:\users\user\documents\visual studio 2017\Projects\CardGames2\cardgames\bin\Debug\cardgames.exe
+c:\users\user\documents\visual studio 2017\Projects\CardGames2\cardgames\bin\Debug\cardgames.pdb
+c:\users\user\documents\visual studio 2017\Projects\CardGames2\cardgames\obj\Debug\cardgames.exe
+c:\users\user\documents\visual studio 2017\Projects\CardGames2\cardgames\obj\Debug\cardgames.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\cardgames\obj\Debug\cardgames.csprojResolveAssemblyReference.cache
+E:\c#\learningC#\LearningProjects\cardgames\bin\Debug\cardgames.exe.config
+E:\c#\learningC#\LearningProjects\cardgames\bin\Debug\cardgames.exe
+E:\c#\learningC#\LearningProjects\cardgames\bin\Debug\cardgames.pdb
+E:\c#\learningC#\LearningProjects\cardgames\obj\Debug\cardgames.csprojResolveAssemblyReference.cache
+E:\c#\learningC#\LearningProjects\cardgames\obj\Debug\cardgames.exe
+E:\c#\learningC#\LearningProjects\cardgames\obj\Debug\cardgames.pdb

@@ -1,0 +1,6 @@
+E:\c#\learningC#\LearningProjects\hackerwars13\obj\Debug\hackerwars13.csprojResolveAssemblyReference.cache
+E:\c#\learningC#\LearningProjects\hackerwars13\bin\Debug\hackerwars13.exe.config
+E:\c#\learningC#\LearningProjects\hackerwars13\bin\Debug\hackerwars13.exe
+E:\c#\learningC#\LearningProjects\hackerwars13\bin\Debug\hackerwars13.pdb
+E:\c#\learningC#\LearningProjects\hackerwars13\obj\Debug\hackerwars13.exe
+E:\c#\learningC#\LearningProjects\hackerwars13\obj\Debug\hackerwars13.pdb

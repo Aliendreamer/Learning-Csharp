@@ -1,0 +1,6 @@
+E:\c#\learningC#\LearningProjects\hornetAssault\bin\Debug\hornetAssault.exe.config
+E:\c#\learningC#\LearningProjects\hornetAssault\bin\Debug\hornetAssault.exe
+E:\c#\learningC#\LearningProjects\hornetAssault\bin\Debug\hornetAssault.pdb
+E:\c#\learningC#\LearningProjects\hornetAssault\obj\Debug\hornetAssault.csprojResolveAssemblyReference.cache
+E:\c#\learningC#\LearningProjects\hornetAssault\obj\Debug\hornetAssault.exe
+E:\c#\learningC#\LearningProjects\hornetAssault\obj\Debug\hornetAssault.pdb

@@ -1,0 +1,6 @@
+E:\c#\learningC#\LearningProjects\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\c#\learningC#\LearningProjects\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\c#\learningC#\LearningProjects\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\c#\learningC#\LearningProjects\ConsoleApp2\obj\Debug\programingFundametalsExam26022017hornetsAssault.csprojResolveAssemblyReference.cache
+E:\c#\learningC#\LearningProjects\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\c#\learningC#\LearningProjects\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

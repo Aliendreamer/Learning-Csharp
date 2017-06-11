@@ -1,0 +1,6 @@
+E:\c#\learningC#\LearningProjects\SchoolAssignmentForFriend\bin\Debug\SchoolAssignmentForFriend.exe.config
+E:\c#\learningC#\LearningProjects\SchoolAssignmentForFriend\bin\Debug\SchoolAssignmentForFriend.exe
+E:\c#\learningC#\LearningProjects\SchoolAssignmentForFriend\bin\Debug\SchoolAssignmentForFriend.pdb
+E:\c#\learningC#\LearningProjects\SchoolAssignmentForFriend\obj\Debug\SchoolAssignmentForFriend.csprojResolveAssemblyReference.cache
+E:\c#\learningC#\LearningProjects\SchoolAssignmentForFriend\obj\Debug\SchoolAssignmentForFriend.exe
+E:\c#\learningC#\LearningProjects\SchoolAssignmentForFriend\obj\Debug\SchoolAssignmentForFriend.pdb

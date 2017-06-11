@@ -1,0 +1,5 @@
+E:\c#\learningC#\LearningProjects\hackerwarsAlgStaircase\bin\Debug\hackerwarsAlgStaircase.exe.config
+E:\c#\learningC#\LearningProjects\hackerwarsAlgStaircase\bin\Debug\hackerwarsAlgStaircase.exe
+E:\c#\learningC#\LearningProjects\hackerwarsAlgStaircase\bin\Debug\hackerwarsAlgStaircase.pdb
+E:\c#\learningC#\LearningProjects\hackerwarsAlgStaircase\obj\Debug\hackerwarsAlgStaircase.exe
+E:\c#\learningC#\LearningProjects\hackerwarsAlgStaircase\obj\Debug\hackerwarsAlgStaircase.pdb

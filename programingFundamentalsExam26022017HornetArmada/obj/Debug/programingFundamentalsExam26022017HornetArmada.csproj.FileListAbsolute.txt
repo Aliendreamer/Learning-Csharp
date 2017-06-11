@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\programingFundamentalsExam26022017HornetArmada\obj\Debug\programingFundamentalsExam26022017HornetArmada.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\programingFundamentalsExam26022017HornetArmada\bin\Debug\programingFundamentalsExam26022017HornetArmada.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\programingFundamentalsExam26022017HornetArmada\bin\Debug\programingFundamentalsExam26022017HornetArmada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\programingFundamentalsExam26022017HornetArmada\bin\Debug\programingFundamentalsExam26022017HornetArmada.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\programingFundamentalsExam26022017HornetArmada\obj\Debug\programingFundamentalsExam26022017HornetArmada.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\programingFundamentalsExam26022017HornetArmada\obj\Debug\programingFundamentalsExam26022017HornetArmada.pdb

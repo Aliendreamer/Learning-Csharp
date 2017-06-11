@@ -1,0 +1,5 @@
+E:\c#\learningC#\LearningProjects\hackerwarsDay18\bin\Debug\hackerwarsDay18.exe.config
+E:\c#\learningC#\LearningProjects\hackerwarsDay18\bin\Debug\hackerwarsDay18.exe
+E:\c#\learningC#\LearningProjects\hackerwarsDay18\bin\Debug\hackerwarsDay18.pdb
+E:\c#\learningC#\LearningProjects\hackerwarsDay18\obj\Debug\hackerwarsDay18.exe
+E:\c#\learningC#\LearningProjects\hackerwarsDay18\obj\Debug\hackerwarsDay18.pdb

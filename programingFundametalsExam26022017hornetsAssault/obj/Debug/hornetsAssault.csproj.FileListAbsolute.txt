@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\ConsoleApp2\obj\Debug\hornetsAssault.csprojResolveAssemblyReference.cache

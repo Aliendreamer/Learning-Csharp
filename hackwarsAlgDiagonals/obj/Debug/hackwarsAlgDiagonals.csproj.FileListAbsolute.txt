@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsAlgDiagonals\bin\Debug\hackwarsAlgDiagonals.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsAlgDiagonals\bin\Debug\hackwarsAlgDiagonals.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsAlgDiagonals\bin\Debug\hackwarsAlgDiagonals.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsAlgDiagonals\obj\Debug\hackwarsAlgDiagonals.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsAlgDiagonals\obj\Debug\hackwarsAlgDiagonals.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsAlgDiagonals\obj\Debug\hackwarsAlgDiagonals.csprojResolveAssemblyReference.cache

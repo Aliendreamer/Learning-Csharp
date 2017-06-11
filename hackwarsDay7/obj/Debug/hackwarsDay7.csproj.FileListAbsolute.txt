@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsDay7\bin\Debug\hackwarsDay7.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsDay7\bin\Debug\hackwarsDay7.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsDay7\bin\Debug\hackwarsDay7.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsDay7\obj\Debug\hackwarsDay7.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsDay7\obj\Debug\hackwarsDay7.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\CardGames2\hackwarsDay7\obj\Debug\hackwarsDay7.pdb

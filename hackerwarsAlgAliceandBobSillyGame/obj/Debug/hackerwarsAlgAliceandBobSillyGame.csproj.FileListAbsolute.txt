@@ -1,0 +1,6 @@
+E:\c#\learningC#\LearningProjects\hackerwarsAlgAliceandBobSillyGame\bin\Debug\hackerwarsAlgAliceandBobSillyGame.exe.config
+E:\c#\learningC#\LearningProjects\hackerwarsAlgAliceandBobSillyGame\bin\Debug\hackerwarsAlgAliceandBobSillyGame.exe
+E:\c#\learningC#\LearningProjects\hackerwarsAlgAliceandBobSillyGame\bin\Debug\hackerwarsAlgAliceandBobSillyGame.pdb
+E:\c#\learningC#\LearningProjects\hackerwarsAlgAliceandBobSillyGame\obj\Debug\hackerwarsAlgAliceandBobSillyGame.exe
+E:\c#\learningC#\LearningProjects\hackerwarsAlgAliceandBobSillyGame\obj\Debug\hackerwarsAlgAliceandBobSillyGame.pdb
+E:\c#\learningC#\LearningProjects\hackerwarsAlgAliceandBobSillyGame\obj\Debug\hackerwarsAlgAliceandBobSillyGame.csprojResolveAssemblyReference.cache
